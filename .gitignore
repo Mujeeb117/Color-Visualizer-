@@ -1,0 +1,13 @@
+/__pycache__
+
+/venv
+/env
+
+.env
+
+/Embeddings
+
+
+models/sam_vit_l_encoder.onnx
+
+models/sam_vit_h_encoder.onnx
